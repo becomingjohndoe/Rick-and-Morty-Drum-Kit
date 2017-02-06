@@ -33,14 +33,14 @@ body,html {
   width:10rem;
   
   text-align: center;
-  color:white;
+  color:#e89ac7;
   background:rgba(0,0,0,0.4);
   text-shadow:0 0 .5rem black;
 }
 
 .playing {
   transform:scale(1.1);
-  border-color:#ffc600;
+  border-color: #e4a788;
   box-shadow: 0 0 1rem #ffc600;
 }
 
