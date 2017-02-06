@@ -20,10 +20,11 @@ body,html {
 
 .keys h1 {
   color: #f0e14a;
+  margin-left: 10px;
 }
 
 .key {
-  border:.1rem solid #97ce4c;
+  /*border:.1rem solid #97ce4c;*/
   border-radius: 1rem;
   margin:1rem;
   /*font-family: 'VT323', monospace;*/
