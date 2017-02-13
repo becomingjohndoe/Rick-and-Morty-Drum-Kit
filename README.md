@@ -3,7 +3,8 @@
 
 ##Play with it here:
 
-(insert heroku link here)
+https://the-sounds-of-rick-and-morty.herokuapp.com/
+
 
 View of the app:
 
