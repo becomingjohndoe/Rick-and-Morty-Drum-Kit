@@ -12,7 +12,9 @@ View of the app:
 
 Future Additions:
 
--More sound clips -Higher quality sound clips
+-More sound clips 
+
+-Higher quality sound clips
 
 Tools used:
 
